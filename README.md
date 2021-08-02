@@ -9,7 +9,7 @@ The complication in the challenge was to allow the user to inject variables into
 
 ###  Installation / running
 - I use poetry for dependency management. Clone the repo and run `poetry install`
-- To run the evaluator use `poetry run pytjon main.py`
+- To run the evaluator use `poetry run python main.py`
 - You'll be prompted to provide an expression. 
 
 ### Incomplete bits
